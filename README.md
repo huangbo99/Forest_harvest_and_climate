@@ -1,4 +1,4 @@
 # Forest_harvest_and_climate
-This repository to share the code to generate the data and figures for the paper. 
+This repository to share the code and data to generate figures for the paper. 
 
-Bo Huang et al. (2026), Spatiotemporal patterns of surface temperature response to forest harvest in Europe
+Bo Huang et al., Spatiotemporal patterns of surface temperature response to forest harvest in Europe. Environmental Research Letters, 2026.
