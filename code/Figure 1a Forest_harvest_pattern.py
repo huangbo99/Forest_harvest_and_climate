@@ -1,12 +1,12 @@
 # Figure 1, forest harvest area percentage
 
 import rasterio
-import rioxarray as rxr
+import rioxarray as rxr # pyright: ignore[reportMissingImports]
 import numpy as np
 import xarray as xr
-import cartopy.crs as ccrs
+import cartopy.crs as ccrs # type: ignore
 import matplotlib.pyplot as plt
-import cartopy.feature as cfeature
+import cartopy.feature as cfeature # type: ignore
 from rasterio.warp import calculate_default_transform, reproject, Resampling
 from matplotlib.colors import PowerNorm
 
