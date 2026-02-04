@@ -7,7 +7,7 @@ import numpy as np
 import glob
 
 # Forests: NF, BF, MF, TOT
-forest = "BF"
+forest = "BF"  # change forest type here
 # Patch, cells
 patch = "220"
 # Variables for file types

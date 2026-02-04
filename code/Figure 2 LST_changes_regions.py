@@ -6,9 +6,9 @@ import numpy as np
 import glob
 
 # Forests: NF, BF, MF, TOT
-forest = "TOT"
+forest = "TOT" # change forest type here
 # Patch, cells
-patch = "330"
+patch = "220"
 # Variables for file types
 lstDay_variable = "lstDay"
 lstNight_variable = "lstNight"
