@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node
+web/node_modules/
+web/.next/
+
+# OS/Editors
+.DS_Store
+.vscode/
